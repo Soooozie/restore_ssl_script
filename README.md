@@ -1,0 +1,1 @@
+This is a bash script to restore a wordpress website similar to my restore_script repository. This script does everything in my restore_script repository and also adds ssl cert generation with letsencrypt/certbot. 
